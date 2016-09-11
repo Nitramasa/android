@@ -86,7 +86,7 @@ public class main extends AppCompatActivity {
         // and the array that contains the data
         adapter = new ArrayAdapter<String>(getApplicationContext(), R.layout.list_black_text, arrayList);
         // Here, you set the data in your ListView
-        listView.setAdapter(new CustomAdapter(this,arrayList, list2));
+        listView.setAdapter(adapter);
         //arrayList.clear();
         //Fyller listview med data
         Dinner din = new Dinner(getApplicationContext());
