@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Dinner planner</string>
+    <string name="action_settings">Innstillinger</string>
+    <string name="save">Lagre</string>
+    <string name="deleteAll">Slett alt</string>
+    <string name="hint1">Ekstra, evt noe som må kjøpes inn...</string>
+    <string name="foodhint">Matrett....</string>
+    <string-array name="days_array">
+        <item>Mandag</item>
+        <item>Tirsdag</item>
+        <item>Onsdag</item>
+        <item>Torsdag</item>
+        <item>Fredag</item>
+        <item>Lørdag</item>
+        <item>Søndag</item>
+    </string-array>
+</resources>
